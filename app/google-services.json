@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "527880033123",
+    "project_id": "blank-wallpaper"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527880033123:android:55d01d66cedf549d",
+        "android_client_info": {
+          "package_name": "com.sanved.blankwallpaper1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_LP6pvtBqZ4CMUsF2OVI0QF8nteABdgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-82113869-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
